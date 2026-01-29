@@ -1,13 +1,16 @@
 # LangChain Core
 langchain
 langchain-core
+langchain_experimental
 
 # OpenAI Integration
 langchain-openai
 openai
-
+pypdf
+beautifulsoup4
 # Anthropic Integration
 langchain-anthropic
+grandalf
 
 # Google Gemini (PaLM) Integration
 langchain-google-genai
@@ -17,6 +20,7 @@ google-generativeai
 langchain-huggingface
 transformers
 huggingface-hub
+langchain-community
 
 # Environment Variable Management
 python-dotenv
